@@ -1,0 +1,13 @@
+name: PG85E
+title: PG85E
+username:
+account: izslerbg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1321720
+bundleId: 2494960
+url: https://izslerbg.shinyapps.io/PG85E/
+when: 1570913768.07628
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .httr-oauth|pg85e.xlsx|rip.xlsx
